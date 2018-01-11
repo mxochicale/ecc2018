@@ -1,0 +1,142 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper, total={6in, 11in}]{geometry}
+
+\author{Miguel P Xochicale, Chris Baber \\
+% \author{Miguel P Xochicale \qquad Chris Baber \\
+\{map479, c.baber\}@bham.ac.uk \\
+School of Engineering\\
+Department of Electronic, Electric and System Engineering\\
+University of Birmingham, UK}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \title{The Inherent Chaos in Human Movement} ()
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \title{The Inherent Chaos in the Variability Human Movement and Facial
+% Expressions} %(Monday, 20th November 2017)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \title{Uniform and Nonuniform Time-Delay Embedding Methodologies for Movement
+% and Emotion Variability} %(Monday, 21th November 2017)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \title{The Inherent Chaos in Human Movement and Emotions}
+%(Tuesday, 22th November 2017)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \title{Quantifying the Inherent Chaos in Human Movement and Emotions}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%(Friday, 8th December 2017)
+\title{Quantifying the Inherent Chaos of \\ Human Movement Variability}
+%(Monday, 18th December 2017)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%\title{Quantifying the Inherent Chaos of Human Movement Variability 
+%in the context of Human-Humanoid Imitation Activities.}
+%%(Wednesday, 10th January 2018)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\date{\today}
+
+\begin{document}
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Abstracts should contain less than 500 words 
+% NUMBER OF WORDS: 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% One or two sentences proving a basic introduction to the field,
+%%%%% comprehensible to a scientist in any discipline.
+Movement variability is defined as the variations that occur in motor
+performance across multiple repetitions of a task and such behaviour is an 
+inherent feature within and between each persons' movement \cite{tlockhart2013}.
+In the previous three decades, research on measurement and understanding of
+movement variability with methodologies of nonlinear dynamics has been well established 
+in areas such as biomechanics, sport science, psychology, cognitive science, 
+neuroscience and robotics \cite{stergiou2011,harbourne2009}.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Two to three sentences of more detailed background,
+%%%%% comprehensible to scientist in related disciplines.
+To quantify movement variability, we therefore consider a methodology from nonlinear dynamics
+called uniform reconstructed state space where essentially dynamics of
+an unknown system can be reconstructed using one dimensional time series.
+As pointed out by Bradley et al. \cite{bradley2015} uniform reconstructed state space,
+if done right, can guarantee to be topologically identical to the true dynamics
+and determine dynamics invariants such as fractal dimension, Kolmogorov-Sinai
+entropy or Lyaponov exponents.
+These algorithms, however, require time series measured with costly sensors 
+that provide well sampled data with little noise.
+Such requirement is generally a common problem when doing precise
+characterisation of time series using dynamic invariants,
+to which Bradley et al. \cite{bradley2015} proposed additional tools,
+for practitioners, of nonlinear time series analysis such as surrogate data, 
+permutation entropy, recurrence plots and network characteristics for time series.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% One sentence clearly stating the general problem being addressed by this
+%%%%% particular study.
+For this study, we are interested in the use of uniform reconstructed
+state space and the analysis of recurrence plots so as to understand 
+the quantification of movement variability.
+Particularly, we are interested in the analysis of data collected through
+cheap wearable inertial sensors and its effects on the 
+reconstructed state space and the recurrence plots
+for different lengths and preprocessing techniques 
+(like smoothing and normalisation) of the time series.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% One sentence summarising the main result (with the words "here we show"
+%%%%% or their equivalent)
+So, here we show the characterisation of human movement variability in the
+context of human-humanoid imitation activities.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Two or three sentences explaining what the main results reveals in direct
+%%%%% comparison to what was thought to be the case previously, or how the main
+%%%%% results adds to previous knowledge.
+Specifically, we explore the reconstruction of state spaces and its recurrence plots for
+20 participants performing repetitions of simple vertical and horizontal arm 
+movements in normal and faster velocity. 
+We also explore the differences between wearable inertial sensors attached 
+to the person and to the humanoid robot and between different axes of inertial sensors. 
+With that in mind, our contribution to knowledge is in regard to the 
+reliability of data from cheap wearable inertial sensors 
+to analyse human movement in the context of human-humanoid imitation activities 
+using methodologies of nonlinear dynamics.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% One or two sentences to put the results into a more general context.
+Such understanding and measurement of movement variability using 
+cheap wearable inertial sensors lead us to have a more intuitive selection of parameters
+to reconstruct the state spaces and to create meaningful interpretations 
+of the recurrence plots. Additionally, having a better understanding of 
+nonlinear dynamics tools with the use of cheap inertial sensors is important 
+for the development of better diagnostic tools for various pathologies which 
+can be applied in areas of rehabilitation, entertainment or sport science \cite{tlockhart2013}.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Two or three sentences to provide a broader perspective, readily comprehensible
+%%%%% to a scientist in any discipline, may be included in the first paragraph
+%%%%% if the editor considers that the accessibility of the paper is significantly
+%%%%% enhanced by their inclusion. Under this circumstances, the length of the
+%%%%% paragraph can be up to 300 words
+
+
+
+\begin{thebibliography}{10}
+\bibitem{stergiou2011}
+Nicholas Stergiou and Leslie M. Decker,
+{\it Nonlinear dynamics, and pathology: Is there a connection?},
+{Human Movement Science vol.30, no.5} (2011)
+
+\bibitem{harbourne2009}
+Regina T Harbourne and Nicholas Stergiou,
+{\it Movement Variability and the Use of Nonlinear Tools: Principles to Guide
+Physical Therapist Practice}, {Physical Therapy, vol.89 no.3}  (2009)
+
+\bibitem{bradley2015}
+Elizabeth Bradley and Holger Kantz,
+{\it Nonlinear time-series analysis revisited}, {Chaos: An Interdisciplinary
+Journal of Nonlinear Science, vol.25 no.9}  (2015)
+
+
+\bibitem{tlockhart2013}
+Thurmon Lockhart and Nick Stergiou,
+{\it New Perspectives in Human Movement Variability},
+{Annals of Biomedical Engineering, vol 41 no.8} (August 2013)
+
+
+\end{thebibliography}
+
+
+\end{document}

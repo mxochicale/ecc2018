@@ -28,3 +28,39 @@ F. Alonso, R. Nadal, {\it Phys. Rev. Lett.} {\bf 108} 123456 (2012)
 
 
 
+
+# Submission
+
+
+
+## Abstract's track
+Abstract submission for oral contribution
+
+
+## Track description
+This track is only for submitting oral contributions. Please, fill in the title of your contribution and in the 'Document type' option, please select 'Oral paper'. 
+
+It is REQUIRED the use of the Abstract box below to place the text of your abstract in text format following the instructions given in the Abstract Submission page. In case you wish to show us how the abstract would look like, upload a pdf of your abstract using  the 'Send file' box.
+
+REQUIRED FIELDS FOR ALL AUTHORS (use the 'Add author' button) 
+
+'Name and surname'
+'Contact email address'
+'Affiliation': just the name of your institution, city, and country
+
+
+Document title
+Document type
+Paper
+Poster
+Oral paper
+Other
+
+## Abstract
+The organization wants to limit the size of abstracts, so you must enter the content of it in the following text field.
+
+Limited to 500 words. 500 remaining words.
+
+
+
+
