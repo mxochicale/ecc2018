@@ -52,7 +52,7 @@ or contact through the contact form located in the
 
 # TWEETS
 
-* Twittet account of the conference [@ecc15madrid2018](https://twitter.com/ecc15madrid2018)
+* Twitter account of the conference [@ecc15madrid2018](https://twitter.com/ecc15madrid2018)
 
 * https://twitter.com/ecc15madrid2018/status/950303121087049728, reply with 
 (deadline for abstract submission: January 15, 2018, 23:59 CET)
@@ -61,6 +61,14 @@ https://eventos.urjc.es/9662/section/8959/the-15th-experimental-chaos-and-comple
 * Let's see what the people of the 15th Experimental Chaos and Complexity Conference (@ecc15madrid2018)
 think about about this abstract: "Quantifying the Inherent Chaos of Human Movement Variability" 
 which is available at https://github.com/mxochicale/eccc2018/tree/master/abstract
+`http://twitter.com/_mxochicale/status/952880190732099584`
+
+* My abstract "Quantifying the Inherent Chaos of Human Movement Variability" 
+(https://github.com/mxochicale/eccc2018/tree/master/abstract) has been accepted as 
+a CONTRIBUTED TALK @ecc15madrid2018  :P 
+
+`https://twitter.com/_mxochicale/status/962004146403426305`
+
 
 
 
