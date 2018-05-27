@@ -1,6 +1,13 @@
-[ECCC2018](https://eventos.urjc.es/9662/detail/the-15th-experimental-chaos-and-complexity-conference.html)
+The 15th Experimental Chaos and Complexity Conference
 ---
-The 15th Experimental Chaos and Complexity Conference 2018 (ECCC2018)
+
+The 15th Experimental Chaos and Complexity Conference 2018 (ECCC2018). 
+4-7 June 2018       
+Madrid, Spain.    
+
+* [Website: eventos.urjc.es/go/ECC15](https://eventos.urjc.es/9662/detail/the-15th-experimental-chaos-and-complexity-conference.html) 
+* [Twitter: @ecc15madrid2018 ](https://twitter.com/ecc15madrid2018)
+
 
 This biennial conference is dedicated to experimental work in nonlinear
 dynamics. It is a highly interdisciplinary conference to highlight experiments
@@ -23,8 +30,8 @@ the organizing committee encourages your participation.
 - [x] November 1	Call for abstract submission (poster/oral)
 - [x] January 15	Deadline for oral abstract submission 
 - [x] February 7	Notification of acceptance for oral contribution
-- [ ] March 31	Deadline for early registration
-- [ ] April 30	Deadline for poster abstract submission
+- [x] March 31	Deadline for early registration
+- [x] April 30	Deadline for poster abstract submission
 - [ ] June 4	Conference opening
 
 
@@ -48,33 +55,3 @@ or contact through the contact form located in the
 
 
 
-
-
-
-# TWEETS
-
-Twitter account of the conference [@ecc15madrid2018](https://twitter.com/ecc15madrid2018)
-
-* [`http://twitter.com/_mxochicale/status/952880190732099584`](http://twitter.com/_mxochicale/status/952880190732099584)
-```
-Let's see what the people of the 15th Experimental Chaos and Complexity Conference (@ecc15madrid2018)
-think about about this abstract: "Quantifying the Inherent Chaos of Human Movement Variability" 
-which is available at https://github.com/mxochicale/eccc2018/tree/master/abstract
-```
-
-* [`https://twitter.com/ecc15madrid2018/status/950303121087049728`](https://twitter.com/ecc15madrid2018/status/950303121087049728)
-reply
-(deadline for abstract submission: January 15, 2018, 23:59 CET)
-https://eventos.urjc.es/9662/section/8959/the-15th-experimental-chaos-and-complexity-conference.html
-
-* [`https://twitter.com/_mxochicale/status/962004146403426305`](https://twitter.com/_mxochicale/status/962004146403426305)
-```
- My abstract "Quantifying the Inherent Chaos of Human Movement Variability" 
-(https://github.com/mxochicale/eccc2018/tree/master/abstract) has been accepted as 
-a CONTRIBUTED TALK @ecc15madrid2018  :P 
-```
-
-* [`https://twitter.com/_mxochicale/status/962024529668132865`](https://twitter.com/_mxochicale/status/962024529668132865)
-```
-NB. The rate of acceptance for @ecc15madrid2018 were ~50% (50 out of ~100 abstracts were rejected)
-```
