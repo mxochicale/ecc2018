@@ -1,0 +1,4 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Movement Variability}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Images 1/2}{5}{0}{1}
+\beamer@sectionintoc {2}{Conclusions and Future Work}{6}{0}{2}

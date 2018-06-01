@@ -4,6 +4,23 @@ Twitter account of the conference [@ecc15madrid2018](https://twitter.com/ecc15ma
 
 
 
+```
+"Measure everything has become a mania" 
+that's what I learnt from "LA CIENCIA DEL CAOS (I. Schifter, 2001)" in Mexico ten years ago,
+that, in a way, has lead me to the 15th Experimental Chaos and Complexity Conference (@ecc15madrid2018)
+where I am going to give a talk about: 
+"Quantifying the Inherent Chaos of Human Movement Variability" 
+
+GITHUB: https://github.com/mxochicale/eccc2018/
+CONFERENCE PROGRAM: https://eventos.urjc.es/go/ECC15
+```
+
+
+added: Fri  1 Jun 12:53:13 BST 2018
+
+
+
+
 
 * [`http://twitter.com/_mxochicale/status/952880190732099584`](http://twitter.com/_mxochicale/status/952880190732099584)
 ```
