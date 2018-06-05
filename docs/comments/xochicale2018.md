@@ -1,17 +1,11 @@
 ---
 Title: "Comments on ECC2018"
 Author:
-  - name: Name Surname
+  - name: Miguel P Xochicale
     affiliation: 1
-  - name: Name Surname,
-    affiliation: 2, 3
 Address:
   - code:    1
-    address: Affiliation Dept/Program/Center, Institution Name, City, State, Country
-  - code:    2
-    address: Affiliation Dept/Program/Center, Institution Name, City, State, Country
-  - code:    3
-    address: Affiliation Dept/Program/Center, Institution Name, City, State, Country
+    address: University of Birmingham, School of Engineering, Birmingham, UK
 Contact:
   - corresponding-author@mail.com
 Editor:
@@ -44,7 +38,7 @@ Bibliography:
 These are some comments about interesting talks/people/ideas
 and some of my experiences at the ECCC 2018.
 
-## 4 June 2018 (Monday)
+# 4 June 2018 (Monday)
 
 kicked off 
 150 attnedes from 20 countries, with 18 invited speakers,
@@ -102,11 +96,68 @@ how to model timeseris wtih symbolization (coolaboration with colombian, brazill
 
 
 
-## 5 June 2018 (Tuesday)
+# 5 June 2018 (Tuesday)
 
-## 6 June 2018 (Wednesday)
+POSTER
 
-## 7 June 2018 (Thursday)
+* (p38, p40) Very instering talks at the posters sessions
+where I met Merten Stender prensing his work:
+"Multiple Scales in complex friction-induced disk brake vibrations"
+it is interesting how they are fusion sensor information 
+from a microphone, data accelerometers. I like the aim 
+of the work to have better understading of hte excitation
+mechanisms and component intearction udring operations.
+Based on Stender's comments, for their work, they
+only analyse data from 3 doctors to which the are lots
+of opportunity to have a better understadngin on how
+other docotos perform the same activity.
+Also Stender is using Brunton et al 2016 work
+to create differential equations and how they affect 
+to different parameters for which he also use 
+recurrence plots. 
+i also learnt that rp can be performed using only
+a number of neanerst nearightoburs which also 
+might be sensitibie according to tiem series.
+
+* (p53)
+ The constructive talk about the work of Hiromichi Suetani et al
+of using 
+the t- distributed stochastic  neighbourd embedding
+for identifiing variablity of 100 patients 
+of 64 channesl of EEG signals.
+"Maniford learning of ordinal pattern dirsgritubions for identification
+of indifivuallity of human brain dynamics using EEG signals at rest"
+
+* (p33) Ignacio Echegoyen is owrking with fifferten methods
+to measure syncronistaion such as specetal coherence, mutual information,
+phacese locking value and person correlation which basically
+each of them are sensitistive for window length varations.
+
+* (p17) I met Christophe Letellier who clarifies that the fortran code 
+was written by Cao L. and his suggestios about the use of Poincare SEctions
+using RQAs because.
+
+TALKS
+
+* Very exiting talks of jumping and dancing drops and the quantum effects
+by John Bush and Pedro J. Saenz (very nice videos  :) ).
+
+* "active matter" and kolmogorovian active turbulence by Mickael Bourgoin
+
+* roman grigoriev and his work on dynamics, geometry, and topoloy
+of fluid turbunlence.
+
+* jordy tiana-alsina and the use of rocs 
+
+* domenico lippolis in china doing theorical/experimental quantum mechanics
+and his particular way to do his presentation from a a latex document
+
+* saliya coulibaly introduce me the lyapunov spectrum
+
+
+# 6 June 2018 (Wednesday)
+
+# 7 June 2018 (Thursday)
 
 
 
