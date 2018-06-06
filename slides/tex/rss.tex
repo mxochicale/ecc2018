@@ -1,0 +1,86 @@
+
+\section{RSS}
+
+\subsection{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{
+\paper{Takens F. 1981 in {\bf Dynamical Systems and Turbulence}}
+\paper{Takens F. 1981 in {\bf Dynamical Systems and Turbulence}}
+
+\begin{frame}{Reconstructed State Space (RSS) Theorem}
+    \begin{figure}
+        \includegraphicscopyright[width=0.55\linewidth]{rss/utde}{Figure adapted from (Casdagli et al. 1991, Uzal et al. 2011) }
+	\caption{Reconstructed State Space} 
+   \end{figure}
+	
+\end{frame}
+}
+
+
+\subsection{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{
+\paper{Takens F. 1981 in {\bf Dynamical Systems and Turbulence}}
+
+\begin{frame}{THE METHOD OF Uniform Time-Delay Embedding (UTDE)}
+
+For a given discrete time series $x(n) = [x(1) , x(2), \dots, x(N)]$,
+a reconstructed state space matrix is defined as 
+\begin{eqnarray*}
+ \mathbf{X}^{m}_{\tau}
+  = \begin{pmatrix} \nonumber
+      \tilde{x}(n)  & \\
+      \tilde{x}(n-\tau)  & \\
+      \vdots  &  \\
+      \tilde{x}(n-(m-1)\tau) & \\
+      \end{pmatrix}^T
+% [ x(n), \\ 
+%	x(n - \tau), \\
+%	x(n-2\tau), \dots , x (n-(m-1)\tau) ]
+\end{eqnarray*}
+
+where $m$ is the \textbf{embedding dimension}  and  $\tau$ is the \textbf{ embedding delay}.
+
+Dimensions of $\mathbf{X}^{m}_{\tau}$ are ($m$,$(N-(m-1)\tau)$) and 
+sample length for $\tilde{x}(n-i\tau)$, where $0 \leq i \leq (m-1)$, is $N-(m-1)\tau$.
+
+
+
+
+\end{frame}
+}
+
+
+\subsection{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{
+\paper{Kabiraj et al. 2012 in {\bf Chaos: An Interdisiplinary Journal of Nonlinear Science}}
+
+\begin{frame}{Average Mutual Information (AMI)}
+    \begin{figure}
+        \centering
+        \includegraphicscopyright[width=0.7\linewidth]{rss/ami}{Work in progress (Xochicale et al. 2018)}
+	\caption{(A, B) AMI values for (C) chaotic and (D) noise time series.} 
+   \end{figure}
+	
+\end{frame}
+}
+
+
+\subsection{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{
+\paper{Cao L. 1997 in {\bf Physica D}}
+
+\begin{frame}{False Nearest Neighbours (FNN)}
+    \begin{figure}
+        \centering
+        \includegraphicscopyright[width=1.0\linewidth]{rss/fnn}{Work in progress (Xochicale 2018)}
+	\caption{(A,B) $E_1(m)$ and (C, D) $E_2(m)$ values for (E) chaotic 
+		and (F) random time series} 
+   \end{figure}
+	
+\end{frame}
+}
+
+
