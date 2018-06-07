@@ -5,19 +5,15 @@
 \subsection{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 {
-\begin{frame}{Conclusions Future Work}
+\begin{frame}{Conclusions}
 
 \begin{itemize}
-	\item (+) Quantification for Arm Movement and Head Pose Estimation Variability with Nonlinear Dynamics is possible. However,
-	\item (-) the timeseries from the landmarks are mounted on the pose location of the head. 
+	\item (+) RSS and RQA can potentially be used to quantify arm movement variability.
+However,
+	\item (-) RSS and RQA are sensitive to window length, embedding parameters or thresholds.
 \end{itemize}
 
-\begin{itemize}
-	\item Test other techniques of Nonlinear Dynamics, e.g. Lyapunov Exponents, Recurrent Quantification Analysis
-	\item Use of Convolutional Neural Networks for automatic identification of Movement Variability
-\end{itemize}
-
-\badge{/badge/badge_v00}
+%\badge{/badge/badge_v00}
 \end{frame}
 }
 
@@ -26,12 +22,20 @@
 {
 %\paper{Xochicale et al. 2018 in Progress}
 
+
 \begin{frame}{Future Work}
+
+\begin{itemize}
+	\item Test other techniques of Nonlinear Dynamics, e.g. Lyapunov Exponents, Poincare Maps.
+	\item Use of Convolutional Neural Networks for automatic identification of Movement Variability
+\end{itemize}
+
+\vspace{-1cm}
+
     \begin{figure}
         %\centering
-        \includegraphicscopyright[width=0.9\linewidth]{conclusion_futurework/futurework}{Work in progress (Xochicale et al. 2018) }
-	\caption{Quantifiying both: \\
-		(a) Movement Variability and (b) Changes in Facial Expressions.} 
+        \includegraphicscopyright[width=0.9\linewidth]{conclusion_futurework/futurework}{Work in progress (Xochicale M. et al. 2018) }
+	\caption{Pilot experiment for quantification of MV for complex movements and changes in facial expressions.} 
    \end{figure}
 	
 \end{frame}
