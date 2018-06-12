@@ -53,6 +53,7 @@ Chaos 12:596-600 (2002).
 
 J. Iwanski and E. Bradley, 
 "Recurrence plot analysis: To embed or not to embed?," 
+<https://www.cs.colorado.edu/~lizb/papers/iwanski-chaos98.pdf>
 Chaos, 8:861-871 (1998).
 
 
